@@ -1,4 +1,4 @@
-## Hi there 👋
+### 🙇 안녕하세요, 성장해나가고 있는 이수연입니다!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
