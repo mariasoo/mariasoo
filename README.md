@@ -3,10 +3,6 @@
 
 ### 🙇 안녕하세요, 개발자로 성장해나가고 있는 이수연입니다!
 
-<a href="https://github.com/mariasoo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariasoo" />
-</a>
-
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
